@@ -2,7 +2,7 @@ This is an Android app template that showcases the best practices for building A
 It uses the following technologies:
 * MVVM + Clean Architecture pattern for clean, scalable, and maintainable architecture
 * RxJava for asynchronous programming
-* Room for save data in loacal
+* Room for save data in local
 * Koin for dependency injection
 * Retrofit for making API requests
 * Fresco for image loading and caching
